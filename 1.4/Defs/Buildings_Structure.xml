@@ -1,0 +1,40 @@
+<Defs>
+	
+	<!--Ancient Archotech Door-->
+	<ThingDef ParentName="DoorBase">
+    <defName>OCEAE_AncientArchotechDoor</defName>
+    <label>ancient archotech door</label>
+    <thingClass>ArchotechExpansion.Building_AncientArchotechDoor</thingClass>
+    <description>A thick vault auto-door, which takes a very long time to open and close, but is nearly indestructible. If the power is cut, it will remain locked.</description>
+    <statBases>
+      <WorkToBuild>1100</WorkToBuild>
+	  <MaxHitPoints>10000</MaxHitPoints>
+	  <DoorOpenSpeed>0.2</DoorOpenSpeed>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Building/Door/VaultDoor_Mover</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <damageData>
+        <enabled>false</enabled>
+      </damageData>
+    </graphicData>
+    <uiIconPath>Things/Building/Door/TechistAutodoor_MenuIcon</uiIconPath>
+	<stuffCategories Inherit="False"/>
+	<useStuffTerrainAffordance>false</useStuffTerrainAffordance>
+    <costList>
+      <Steel>40</Steel>
+      <ComponentIndustrial>2</ComponentIndustrial>
+    </costList>
+    <building>
+	  <deconstructible>false</deconstructible>
+    </building>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>50</basePowerConsumption>
+      </li>
+    </comps>
+    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+	<designationCategory inherit="False"/>
+  </ThingDef>
+</Defs>

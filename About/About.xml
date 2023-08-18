@@ -1,0 +1,29 @@
+<ModMetaData>
+    <name>Archotech Expansion</name>
+    <author>Lionhardt</author>
+    <modVersion>0.0.1</modVersion>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+	</loadAfter>
+	<packageId>oceanscontentexpansion.archotech</packageId>
+	<description>Ocean's Content Expansion (OCE) is a brand new series of mods to enhance and add to the storytelling and world-building of RimWorld.
+		Introducing OCE - Archotech, an expansive addition to your RimWorld experience that introduces a new dimension of gameplay: Archotechnic Colonists. 
+		
+		Built with the Biotech DLC and Vanilla Expanded Framework, this mod aims to revitalize the concept of Archotech as fully customizable colonists with their own set of genes - Archonites and Mechanites. 
+		
+		Archonites are the framework that defines what it is to be known as Archotech. Archonanites make up most of thegenes that make Archotech superior to all life.
+		While Mechanites are the subtle enhancements, but as their name states they are of lesser origins - Mechanoids. While Archonites have no inherent downsides, Mechanites on the other hand always come with a trade-off.
+		
+		But this mod is more than just a race/xenotype expansion, it aims to add lore into the world - The Origins of Archotech and its goal. Two unique scenarios are added with this mod.
+		
+		The first scenario which aims for a more vanilla gameplay experience has you start as 5 Tribals who have stumbled upon an ancient Archotech Foundry. Once activated this foundry will periodically produce Archofragments - a material rarely seen, strong, malleable and most of all beautiful.
+		
+		But becareful, once the foundry is activated it will let out a world-wide pulse, alerting the world of your findings, causing animals to go mad with rage and changing the very weather itself. The second scenario is more lore based. Try it for yourself.
+	</description>
+</ModMetaData>

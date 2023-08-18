@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\OCE_ArchotechExpansion\Source\ArchotechExpansion\obj\Debug\ArchotechExpansion.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\OCE_ArchotechExpansion\Source\ArchotechExpansion\obj\Debug\ArchotechExpansion.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\OCE_ArchotechExpansion\1.4\Assemblies\ArchotechExpansion.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\OCE_ArchotechExpansion\Source\ArchotechExpansion\obj\Debug\ArchotechExpansion.dll
